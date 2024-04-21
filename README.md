@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoroldoX
 - 👀 I’m interested in trying new things
-- 🌱 I’m currently learning web development with Django
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me: on email: prabhudhruv@gmail.com
 
 <!---
